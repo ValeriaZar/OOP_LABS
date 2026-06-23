@@ -1,2 +1,2 @@
 # OOP_LABS
-OOP labs
+Labs from 1 to 6

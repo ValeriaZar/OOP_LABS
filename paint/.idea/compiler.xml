@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serialisation" />
+        <module name="untitled" />
+      </profile>
+      <profile name="Annotation profile for AdapterPlugin" enabled="true">
+        <sourceOutputDir name="../AdapterPlagin/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../AdapterPlagin/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AdapterPlugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="polina" target="23" />
+      <module name="star-plugin" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
